@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "typeRoots": [
+      "./node_modules/@types",
+      "./src/types"
+    ],
+    "target": "es2017",
+    "module": "commonjs",
+    "strict": true,
+    "esModuleInterop": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "outDir": "./dist",
+    "rootDir": "./"
+  }
+}
